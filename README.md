@@ -16,5 +16,5 @@
   - https://github.com/sunatgit/vue-facebook-google-oauth2/pull/25
 - workaround solution for a specific error case to [react-reader](https://github.com/gerhardsletten/react-reader)
   - https://github.com/gerhardsletten/react-reader/issues/33
-- error fixing proposal to [fswatch](https://github.com/emcrisostomo/fswatch)
-  - https://github.com/emcrisostomo/fswatch/issues/296
+- error fixing proposal to [fswatch](https://github.com/paul-nameless/fswatch)
+  - https://github.com/paul-nameless/pyfswatch/issues/8
