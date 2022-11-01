@@ -3,7 +3,7 @@
 - 👀 I’m interested in software development in Linux and macOS.
 - 🌱 I’m currently learning React.js
 
-# Hobby
+# Software development as hobby 
 - developing RSS feed maker [FeedMaker](https://github.com/terzeron/FeedMaker) and [FeedMakerApplications](https://github.com/terzeron/FeedMakerApplications)
 - developing Text/EPUB/PDF file manager [TextMgmt](https://github.com/terzeron/TextMgmt)
 
