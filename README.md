@@ -11,7 +11,7 @@
 - developed Cartoon splitting utility [CartoonSplit](https://github.com/terzeron/CartoonSplit)
 
 # Open Source Contributions
-- I'm the first committer of [naver/passport-naver](https://github.com/naver/passport-naver)
+- the first committer of [naver/passport-naver](https://github.com/naver/passport-naver)
 - profile feature PR to [vue-facebook-google-oauth2](https://github.com/sunatgit/vue-facebook-google-oauth2)
   - https://github.com/sunatgit/vue-facebook-google-oauth2/pull/25
 - workaround solution for a specific error case to [react-reader](https://github.com/gerhardsletten/react-reader)
