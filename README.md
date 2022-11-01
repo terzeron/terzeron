@@ -6,6 +6,8 @@
 # Software development as hobby 
 - developing RSS feed maker [FeedMaker](https://github.com/terzeron/FeedMaker) and [FeedMakerApplications](https://github.com/terzeron/FeedMakerApplications)
 - developing Text/EPUB/PDF file manager [TextMgmt](https://github.com/terzeron/TextMgmt)
+- developed RSS extender [RSSExtend](https://github.com/terzeron/RssExtend)
+- developed Cartoon splitting utility [CartoonSplit](https://github.com/terzeron/CartoonSplit)
 
 # Open Source Contributions
 - I'm first committer of [naver/passport-naver](https://github.com/naver/passport-naver)
