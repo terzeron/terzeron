@@ -1,8 +1,8 @@
 # Introduction
 - 👋 Hi, I’m @terzeron
 - 👀 I’m interested in software development in Linux and macOS.
-- 🌱 I’m currently learning React.js
-- I work for NHN Cloud and am managing development of some PaaS services.
+- 🌱 I’m currently learning K8s.
+- I work for NHN Cloud and am managing a few teams developing some PaaS services.
 
 # Software development as hobby 
 - developing RSS feed maker [FeedMaker](https://github.com/terzeron/FeedMaker) and [FeedMakerApplications](https://github.com/terzeron/FeedMakerApplications)
