@@ -18,3 +18,5 @@
   - https://github.com/gerhardsletten/react-reader/issues/33
 - error fixing proposal to [fswatch](https://github.com/paul-nameless/fswatch)
   - https://github.com/paul-nameless/pyfswatch/issues/8
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=terzeron&show_icons=true)
